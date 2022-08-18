@@ -1,4 +1,4 @@
-This archive contains the xyz structures for the 16 NCI complexes that make up the LNCI16 benchmark set in the file ```structures.zip```.
+This archive contains the xyz structures for the 16 NCI complexes that make up the LNCI16 benchmark set.
 The respective levels of the geometry can be found in the supporting information.
 They are provided in the following way:
 
