@@ -18,8 +18,8 @@ $tmer {GramA/complex,GramA/guest,GramA/host}/$f x 1 -1 -1 $w                    
 $tmer {DHComplex/complex,DHComplex/guest,DHComplex/host}/$f x 1 -1 -1 $w           -57.57
 $tmer {DNA/complex,DNA/guest,DNA/host}/$f x 1 -1 -1 $w                             -363.30
 $tmer {SH3/complex,SH3/guest,SH3/host}/$f x 1 -1 -1 $w                             -25.65
-$tmer {TYK2/complex,TYK2/guest,TYK2/host}/$f x 1 -1 -1 $w                          -49.03
-$tmer {FXa/complex,FXa/guest,FXa/host}/$f x 1 -1 -1 $w                             -105.27
+$tmer {TYK2/complex,TYK2/guest,TYK2/host}/$f x 1 -1 -1 $w                          -49.03   #this is actually an association energy 
+$tmer {FXa/complex,FXa/guest,FXa/host}/$f x 1 -1 -1 $w                             -105.27  #this is actually an association energy
 $tmer {2xHB238/complex,2xHB238/guest,2xHB238/host}/$f x 1 -1 -1 $w                 -74.92
 $tmer {FullGraph/complex,FullGraph/guest,FullGraph/host}/$f x 1 -1 -1 $w           -74.13
 $tmer {DithBrCap/complex,DithBrCap/guest,DithBrCap/host}/$f x 1 -1 -1 $w           -45.63
