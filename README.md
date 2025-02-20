@@ -8,7 +8,7 @@ which contain the struc.xyz file of the respective structure together with its t
 
 **!! _Notice_ !!** <br>
 Due to a mistake, the host and guest structures for systems TYK2 and FXa are relaxed (taken from this [study](https://doi.org/10.1002/cphc.201700082)).
-Therefore for these systems, the computed energies are association energies (e.g. including relaxtion energy) and not as stated, interaction energies. Since this is the case for the reference and all
+Therefore for these systems, the computed energies are association energies (i.e. including the relaxtion energy) and not as stated, interaction energies. Since this is the case for the reference and all
 evaluated methods, a comparison can still be made. 
 If you want to compute the real interaction energies for TYK2 & FXa, please cut the host and guest structures out of the complex structures. 
 The real ωB97X-3c reference interaction energies are: <br>
