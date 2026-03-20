@@ -1,0 +1,31 @@
+## License
+
+Copyright (c) 2022 Gorges, J.; Bädorf, B.; Hansen, A.; Grimme, S.
+
+### Dataset (Original Contributions)
+
+The original structures and data generated as part of this work are licensed under the Creative Commons Attribution 4.0 International License (CC-BY-4.0).
+
+You are free to share and adapt the material for any purpose, even commercially, under the condition that appropriate credit is given.
+
+Full license text:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+### Third-Party Data
+
+This repository also contains structures and data derived from previously published works.
+
+These third-party materials are not covered by the CC-BY-4.0 license above and remain subject to the copyrights and licensing terms of their respective authors.
+
+We do not claim ownership of third-party data.
+
+### Attribution Requirement
+
+If you use this benchmark, you must:
+
+1. Cite the associated publication:
+
+"Efficient Computation of the Interaction Energies of Very Large Non-covalently Bound Complexes."  
+J. Gorges, B. Bädorf, S. Grimme, A. Hansen, Synlett 2023, 34, 1135–1146. DOI: 10.1055/s-0042-1753141
+
+2. Cite the original sources of the individual datasets/subsets where applicable (see DATA_SOURCES.md).
